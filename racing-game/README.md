@@ -1,0 +1,1 @@
+This project is about a basic racing game by using elementary knowledge of HTML, CSS and Javascript.

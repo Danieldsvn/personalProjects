@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+#redCar {
+    width: 200px;
+    display: block;
+    margin-top: 150px;
+    
+}
+#greenCar {
+    width: 200px;
+    display: block;
+    margin-top: 50px;
+    margin-left: 0px;
+}    
